@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: shivang2111/myapp:7
+        image: shivang2111/myapp:8
         ports:
         - containerPort: 10010
 ---
